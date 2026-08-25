@@ -21,7 +21,7 @@ The workflow automates the entire process from receiving raw data to visualizing
 ## 📊 Dashboard Overview & Features
 The Power BI dashboard provides a comprehensive view of call center performance, allowing managers to monitor SLAs, track agent efficiency, and identify trends.
 
-![3CX Dashboard Overview](dashboard%203cx.jpg)
+![3CX Dashboard Overview](dashboard%203cx.png)
 
 **Key Performance Indicators (KPIs) Tracked:**
 * **Call Volume Metrics:** Total Calls Received, Total Calls Answered, and Total Calls Abandoned.
