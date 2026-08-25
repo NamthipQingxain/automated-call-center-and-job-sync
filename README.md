@@ -11,10 +11,10 @@ The workflow automates the entire process from receiving raw data to visualizing
 
 ![3CX Workflow](FLW%203CX.png)
 
-1. **Microsoft Outlook:** Automatically receives 10 daily inbound and outbound 3CX call report files via email.
-2. **Microsoft Power Automate:** Acts as the automation engine (Trigger & Action) to detect new emails and extract the attached report files.
-3. **Microsoft SharePoint:** Serves as the cloud storage solution, automatically gathering and categorizing the extracted files into designated folders.
-4. **Microsoft Power BI:** Connects to SharePoint, performs automated Data Cleansing, and calculates the final results to display on an Interactive Dashboard.
+1. **Microsoft Outlook** Automatically receives 10 daily inbound and outbound 3CX call report files via email.
+2. **Microsoft Power Automate** Acts as the automation engine (Trigger & Action) to detect new emails and extract the attached report files.
+3. **Microsoft SharePoint** Serves as the cloud storage solution, automatically gathering and categorizing the extracted files into designated folders.
+4. **Microsoft Power BI** Connects to SharePoint, performs automated Data Cleansing, and calculates the final results to display on an Interactive Dashboard.
 
 ---
 
