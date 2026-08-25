@@ -1,6 +1,6 @@
 # 📞 Automated 3CX Call Center Performance Dashboard
 
-> 🏆 **Internship Project (UIH):** End-to-End Data Pipeline & Automation
+> 🏆 **Internship Project (UIH)** End-to-End Data Pipeline & Automation
 
 An automated data pipeline and analytics solution designed to track, manage, and visualize daily performance metrics for a 3CX Call Center. This project eliminates manual data entry by automating the extraction and organization of daily call reports, culminating in an interactive Power BI dashboard to support business decision-making.
 
@@ -23,23 +23,23 @@ The Power BI dashboard provides a comprehensive view of call center performance,
 
 ![3CX Dashboard Overview](dashboard%203cx.png)
 
-**Key Performance Indicators (KPIs) Tracked:**
-* **Call Volume Metrics:** Total Calls Received, Total Calls Answered, and Total Calls Abandoned.
-* **Service Level Metrics:** % Answer Rate (e.g., 98.48%) and % Abandoned Rate.
-* **Time & Efficiency Metrics:** Average Talk Time, Total Talking Time, and Calls Waiting > 15 seconds.
+**Key Performance Indicators (KPIs) Tracked**
+* **Call Volume Metrics** Total Calls Received, Total Calls Answered, and Total Calls Abandoned.
+* **Service Level Metrics** % Answer Rate (e.g., 98.48%) and % Abandoned Rate.
+* **Time & Efficiency Metrics** Average Talk Time, Total Talking Time, and Calls Waiting > 15 seconds.
 
-**Interactive Visualizations:**
-* **Trend Analysis:** Line charts displaying *Abandoned Rate by Month* and *Wait > 15 by Month* to track performance stability.
-* **Agent Performance:** Horizontal bar chart highlighting the *Top 5 Agents (Inbound)* based on total calls answered.
-* **Dynamic Filtering:** Slicers for *Date (Year/Month)*, *Specific Agent*, and *Team Group* to drill down into specific data segments instantly.
+**Interactive Visualizations**
+* **Trend Analysis** Line charts displaying *Abandoned Rate by Month* and *Wait > 15 by Month* to track performance stability.
+* **Agent Performance** Horizontal bar chart highlighting the *Top 5 Agents (Inbound)* based on total calls answered.
+* **Dynamic Filtering** Slicers for *Date (Year/Month)*, *Specific Agent*, and *Team Group* to drill down into specific data segments instantly.
 
 ---
 
 ## 🛠️ Tech Stack & Skills Highlighted
-* **Automation:** Microsoft Power Automate (Cloud Flows)
-* **Storage & Database:** Microsoft SharePoint Lists / Folders
-* **Data Analytics & Visualization:** Microsoft Power BI (DAX, Power Query)
-* **Source Integration:** Microsoft Outlook / 3CX Phone System
+* **Automation** Microsoft Power Automate (Cloud Flows)
+* **Storage & Database** Microsoft SharePoint Lists / Folders
+* **Data Analytics & Visualization** Microsoft Power BI (DAX, Power Query)
+* **Source Integration** Microsoft Outlook / 3CX Phone System
 
 ---
 
